@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Darn </title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body,h1 {font-family: "Montserrat", sans-serif}
+img {margin-bottom: -7px}
+.w3-row-padding img {margin-bottom: 12px}
+</style>
+</head>
+<body>
+
+<!-- Sidebar -->
+<!-- <nav class="w3-sidebar w3-black w3-animate-top w3-xxlarge" style="display:none;padding-top:150px" id="mySidebar">
+  <a href="javascript:void(0)" onclick="w3_close()" class="w3-button w3-black w3-xxlarge w3-padding w3-display-topright" style="padding:6px 24px">
+    <i class="fa fa-remove"></i>
+  </a>
+  <div class="w3-bar-block w3-center">
+    <a href="#" class="w3-bar-item w3-button w3-text-grey w3-hover-black">About</a>
+    <a href="#" class="w3-bar-item w3-button w3-text-grey w3-hover-black">Photos</a>
+    <a href="#" class="w3-bar-item w3-button w3-text-grey w3-hover-black">Shop</a>
+    <a href="#" class="w3-bar-item w3-button w3-text-grey w3-hover-black">Contact</a>
+  </div>
+</nav> -->
+
+<!-- !PAGE CONTENT! -->
+<div class="w3-content" style="max-width:1500px">
+
+<!-- Header -->
+<div class="w3-clear">
+
+  <!-- top right sidebar button -->
+<!-- <span class="w3-button w3-xxlarge w3-white w3-right" onclick="w3_open()"><i class="fa fa-bars"></i></span>  -->
+
+<div class="w3-clear"></div>
+<header class="w3-center w3-margin-bottom">
+  <h1><b> <p style="font-size:30px"> This website serves as a record of resons why I like casey,  </b> </p> </h1>
+  <h1><b> <p style="font-size:30px"> and also casey's hottness &#129397  </b> </p> </h1>
+  
+  <!-- button -->
+  <!-- <p class="w3-padding-16"><button class="w3-button w3-black" 
+    onclick="UselessFunction()"> <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" 
+    target="_blank">a very useful button</a> </button></p> -->
+
+</header>
+</div>
+
+<!-- <div class= "w3-clear" style = "margin:40px"> 
+  <p style = "font-size:15px" >
+    Reasons: <br>
+    - You make me laugh so much my chest hurts <br>
+    - you stick your finger in my mouth when I yawn <br>
+    - you can't keep eye contact when I often use my hands to talk , they constantly distract you it's so cute <br>
+    - you're so weird <br>
+    - your weird goes well with my weird <br>
+    - you're a phenomenal friend  <br>
+    - You smell nice <br>
+    - You just fit right when you lay on my chest when watching anime <br>
+    - You're a fucking nerd <br>
+    - I sleep good when we cuddle <br>
+    - you're so smart, u r cleverer than you think - give yourself more credit <br>
+    - you're a masc loser <br>
+    <br>
+  </p>
+</div> -->
+
+<div class="w3-center" >
+  <img src="hot.png" style="width: 90%" >
+</div>
+
+<div class="w3-padding-16" > </div>
+<div class="w3-padding-16" > </div>
+
+<div class="w3-center" >
+  <img src="weirdo.png" style="width: 90%" >
+</div>
+<div class="w3-padding-16" > </div>
+<div class="w3-clear"></div>
+<header class="w3-center w3-margin-bottom">
+<p style="font-size:30px"> That's all, thanks, you can kiss me now </p>
+</header>
+</div>
+
+<!-- <p style="font-size:40 px"> some lol musick: EDM-Emajor  </b> </p>
+<div></div>
+<audio controls>
+  <source src="horse.ogg" type="audio/ogg">
+  <source src="EDMEminor.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio> -->
+
+
+<!-- Poems -->
+<!-- <div class="w3-row" id="myGrid" style="margin-bottom:80px">
+    <h1 style="font-size:50px"> </b> 
+        Will you - Poem by me </menu> </b> </h1>
+    <p style="font-size:20px">  
+        when you laid your head upon my chest <br>
+        and I played with your hair <br>
+        I felt my heart found a place to rest <br>
+        Will you meet me there? <br>
+    </p>
+    <p style="font-size:20px">  
+        When you're back from across the sea <br>
+        Will you come and lie with me? <br>
+        We can listen to music <br>
+        And waste the day<br>
+        Will you meet me there?<br>
+    </p>
+</div>
+
+<h1 style="font-size:50px"> </b> 
+    Poems by other losers </b> </h1>
+
+<div class="w3-row" id="myGrid" style="margin-bottom:60px">
+    <h1 style="font-size:30px"> </b> 
+         She Walks In Beauty </b> </h1>
+    <p style="font-size:20px">   
+        She walks in beauty, like the night  <br>
+        Of cloudless climes and starry skies; <br>
+        And all that’s best of dark and bright<br>
+        Meet in her aspect and her eyes; <br>
+        Thus mellowed to that tender light<br>
+        Which heaven to gaudy day denies.   
+    </p>
+</div>
+<div class="w3-row" id="myGrid" style="margin-bottom:128px">
+    <h1 style="font-size:30px"> </b> 
+         Her Eyes </b> </h1>
+    <p style="font-size:20px">   
+        her eyes,<br>
+        enchanting to say the least.<br>
+        one look,<br>
+        one playful glance,<br>
+        one innocent stare,<br>
+        and my emotions are abducted to a place<br>
+        of blissful stupidity.<br>
+        she makes me smile uncontrollably<br>
+        and my heart plays<br>
+        a Samba beat in my chest<br>
+    </p>
+    <p style="font-size:20px">   
+        she often asks what’s wrong with me,<br>
+        but I am not crazy.<br>
+        it’s the potent combination<br>
+        of her angelic eyes<br>
+        and mischievous smile<br>
+        that floors me every time.<br>
+    </p>
+
+
+
+
+<!-- End Page Content -->
+</div>
+
+<!-- Footer -->
+<footer class="w3-container w3-padding-64 w3-light-grey w3-center w3-opacity w3-xlarge" style="margin-top:128px"> 
+  <!-- <i class="fa fa-facebook-official w3-hover-opacity"></i>
+  <i class="fa fa-instagram w3-hover-opacity"></i>
+  <i class="fa fa-snapchat w3-hover-opacity"></i>
+  <i class="fa fa-pinterest-p w3-hover-opacity"></i>
+  <i class="fa fa-twitter w3-hover-opacity"></i>
+  <i class="fa fa-linkedin w3-hover-opacity"></i> -->
+  <p class="w3-medium">Powered by <a href="https://www.pokemon.com/us/pokedex/mew" target="_blank" class="w3-hover-text-green">UR MUM </a> <p class="w3-medium"> ain't no one uses squarespace in this household </p> </p>
+</footer>
+ 
+<script>
+// Toggle grid padding
+function myFunction() {
+  
+  var x = document.getElementById("myGrid");
+  if (x.className === "w3-row") {
+    x.className = "w3-row-padding";
+  } else { 
+    x.className = x.className.replace("w3-row-padding", "w3-row");
+  }
+}
+ 
+
+// Open and close sidebar
+function w3_open() {
+  document.getElementById("mySidebar").style.width = "50%";
+  document.getElementById("mySidebar").style.display = "block";
+}
+
+function w3_close() {
+  document.getElementById("mySidebar").style.display = "none";
+}
+</script>
+
+</body>
+</html>
